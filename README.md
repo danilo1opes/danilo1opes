@@ -9,7 +9,7 @@
    
      ### ♠️ Sobre ME ♦️
  
-        Skills: "Back-end Desenvolvedor",
+        Skills: "Front-end Desenvolvedor",
         Main_Langs: "JavaScript",
         Casual_Langs: "Python", 
         Tech: "Git,Linkedln"
