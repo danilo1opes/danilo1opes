@@ -7,7 +7,7 @@
 
 ![danilo1opes GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo1opes&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo1opes&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo1opes&hide_progress=true)
 
 ### Tools:
 
