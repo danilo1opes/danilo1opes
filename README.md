@@ -5,8 +5,6 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNIF69lkLyVjR9aYdEc8Eog)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilo1opes/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aF5xM6kKxW)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](//https://www.linkedin.com/in/danilo-1opes/)
 
-![danilo1opes GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo1opes&show_icons=true&theme=synthwave)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo1opes&hide_progress=true)
 
 ### Tools:
