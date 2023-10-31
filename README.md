@@ -14,7 +14,7 @@
   <img align="center" alt="Dan-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-   <img align="center" alt="Dan-Git" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg"> 
+   <img align="center" alt="Dan-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
 </div>
 
 ## Last Videos:
