@@ -17,6 +17,9 @@
    <img align="center" alt="Dan-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
 </div>
 
-## Last Videos:
-- [Desbloqueie o Mindset da Programação](https://youtu.be/ICa82r-JNIo?si=Xm3tihHnCLTHvS13)
-
+## Other Knowledges:
+ 
+<div style="display: inline_block"><br>
+    <img align="center" alt="Dan-Adobe1" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
+    <img align="center" alt="Dan-Adobe2" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> 
+</div>
