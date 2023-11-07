@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=6b26ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=859fc2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Name's+Danilo+Lopes;I'm+20+years+old;Studying+Systems+Analysis+and+development;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f09e6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Name's+Danilo+Lopes;I'm+20+years+old;Studying+Systems+Analysis+and+development;+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Hello, Name's Danilo Lopes ✍🏻
 
