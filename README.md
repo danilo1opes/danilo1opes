@@ -24,5 +24,4 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="Dan-Adobe1" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
     <img align="center" alt="Dan-Adobe2" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> 
-    <img align="center" alt="Dan-Adobe3" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
 </div>
