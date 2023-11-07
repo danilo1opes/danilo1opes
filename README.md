@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=859fc2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=859fc2&height=120&section=header"/>
 
 ### Hello, Name's Danilo Lopes ✍🏻
 
@@ -27,4 +27,4 @@
     <img align="center" alt="Dan-Adobe2" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=859fc2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=859fc2&height=120&section=footer"/>
