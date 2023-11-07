@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f09e6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Name's+Danilo+Lopes;I'm+20+years+old;Studying+Systems+Analysis+and+development;+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Hello, Name's Danilo Lopes ✍🏻
-
 ![Profile views](https://komarev.com/ghpvc/?username=danilo1opes&label=PROFILE+VIEWS)
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNIF69lkLyVjR9aYdEc8Eog)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilo1opes/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aF5xM6kKxW)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](//https://www.linkedin.com/in/danilo-1opes/)
