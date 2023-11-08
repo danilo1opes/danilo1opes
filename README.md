@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=6b26ff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f09e6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Name's+Danilo+Lopes;I'm+20+years+old;Studying+Systems+Analysis+and+development;+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -26,5 +25,3 @@
     <img align="center" alt="Dan-Adobe1" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
     <img align="center" alt="Dan-Adobe2" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=6b26ff&height=120&section=footer"/>
