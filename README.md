@@ -37,4 +37,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo1opes&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
 </div>
 
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilo1opes/danilo1opes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilo1opes/danilo1opes/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/danilo1opes/danilo1opes/output/github-snake.svg" />
+</picture>
+
 
