@@ -11,7 +11,7 @@
 ## 🚀 Sobre Mim
 
 - 🎓 **Formação:** Técnico em Análise e Desenvolvimento de Sistemas - UCA (Faculdade Católica Paulista)
-- 👨‍💻 **Papel:** Desenvolvedor Front-end | Especialista em UX/UI Design
+- 👨‍💻 **Papel:** Desenvolvedor Front-end | UX/UI Design
 - 🌟 **Idade:** 22 anos (Nascido em 2003)
 - 🏠 **Localização:** Brasil 🇧🇷
 
