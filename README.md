@@ -1,6 +1,4 @@
 
-![Profile views](https://komarev.com/ghpvc/?username=danilo1opes&label=PROFILE+VIEWS)
-
 <!-- Informações com emojis -->
 <div style="text-align: left; padding: 20px 0;">
   <ul>
