@@ -25,7 +25,7 @@
 </div>
 
 ## Other Knowledges:
- 
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Dan-Adobe1" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
     <img align="center" alt="Dan-Adobe2" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> 
@@ -43,5 +43,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilo1opes/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/danilo1opes/output/github-snake.svg" />
 </picture>
-
-
