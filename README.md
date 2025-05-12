@@ -1,3 +1,9 @@
+<!-- Banner -->
+<img src="imgBanner.png" alt="Danilo Silva Lopes Banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25&center=false&vCenter=true&width=1000&lines=Danilo+Silva+Lopes;Be+Welcome!+:%29" alt="Typing SVG">
+</a>
 
 <!-- Informações com emojis -->
 <div style="text-align: left; padding: 20px 0;">
