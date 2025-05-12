@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou Danilo Silva Lopes!
+<!-- Banner -->
+<img src="assets/banner.png" alt="Logo" />
 
 <!-- Banner Animado -->
 <div align="center">
@@ -39,30 +40,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo1opes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo1opes&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas"/>
 </div>
-
-## 🌐 Conecte-se Comigo
-
-<div>
-  <a href="https://www.linkedin.com/in/danilo1opes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:parceriasnyx@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/danilo1opes" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"/>
-  </a>
-</div>
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danilo1opes&theme=dark&row=1&column=7" alt="Troféus do GitHub"/>
-</div>
-
-## 📈 Contribuições
-
-![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=danilo1opes&theme=dark&hide_border=true)
 
 ---
 
