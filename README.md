@@ -1,7 +1,14 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=danilo1opes&label=PROFILE+VIEWS)
 
-## Hi, I'm Danilo Lopes Front-End Web developer, programming and technology content creator!
+<!-- Informações com emojis -->
+<div style="text-align: left; padding: 20px 0;">
+  <ul>
+    <li>🎓 <strong>Técnico</strong> em Análise e Desenvolvimento de Sistemas - UCA (Faculdade Católica Paulista)</li>
+    <li>👩‍💻 <strong>Desenvolvedor Front-end | UX|UI Design</strong></li>
+    <li>🎂 <strong>22 anos</strong> - 2003</li>
+  </ul>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
